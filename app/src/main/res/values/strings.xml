@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">LaluMomena</string>
+    <string name="string_hewan_pedia">Hewan Pedia</string>
+    <string name="string_tekan_gambar_hewan_untuk_membuka_galeri">(Tekan gambar hewan untuk membuka galeri)</string>
+    <string name="string_biodata">BIODATA</string>
+    <string name="string_biodata_mahasiswa">BIODATA MAHASISWA</string>
+    <string name="kucing">Kucing</string>
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">America</string>
+    <string name="bengal_deskripsi">Kucing bengal adalah keturunan keempat dari hasil persilangan antara kucing american shorthair dengan kucing asian leopard</string>
+    <string name="persia_nama">Persia</string>
+    <string name="persia_asal">Turki</string>
+    <string name="persia_deskripsi">Kucing persia adalah ras kucing domestik berbulu panjang dengan karakter wajah bulat dan moncong pendek. Namanya mengacu pada Persia, nama lama Iran, di mana kucing serupa ditemukan.</string>
+    <string name="brithis_short_hair_nama">Brithis short hair</string>
+    <string name="brithis_short_hair_asal">Inggris</string>
+    <string name="brithis_short_hair_deskripsi">Kucing bulu pendek britania adalah salah satu ras kucing tertua yang nenek moyang dipercayai memiliki hubungan dengan bangsa Romawi yang pernah dahulu menguasai Inggris.</string>
+    <string name="ular">Ular</string>
+    <string name="kobra_nama">Kobra</string>
+    <string name="kobra_asal">Afrika</string>
+    <string name="kobra_deskripsi">Ular sendok atau kobra adalah sebutan khusus untuk semua jenis ular berbisa (Elapidae) yang memiliki kemampuan memipihkan lehernya hingga membentuk seperti sendok atau tudung.</string>
+    <string name="sanca_nama">Sanca</string>
+    <string name="sanca_asal">Afrika</string>
+    <string name="sanca_deskripsi">Sanca adalah sebutan umum untuk semua jenis ular pembelit yang diklasifikasikan sebagai familia Pythonidae.</string>
+    <string name="boomslang_nama">Boomslang</string>
+    <string name="boomslang_asal">Afrika</string>
+    <string name="boomslang_deskripsi">Boomslang (dari Bahasa Afrikaans, Boom =\\\"Pohon\\\" dan Slang =\\\"Ular\\\") atau benama latin Dispholidus typus adalah spesies ular pohon kolubrid yang tersebar luas di Benua Afrika.</string>
+    <string name="anjing">Anjing</string>
+    <string name="pitbull_nama">Pitbull</string>
+    <string name="pitbull_asal">Amerika</string>
+    <string name="pitbull_deskripsi">Pit bull adalah nama umum untuk jenis anjing yang diturunkan dari bulldog dan terrier.</string>
+    <string name="sephear_nama">Sephear</string>
+    <string name="sephear_asal">Jerman</string>
+    <string name="sephear_deskripsi">Anjing Gembala Jerman adalah salah satu ras murni anjing yang populer.</string>
+    <string name="husky_nama">Husky</string>
+    <string name="husky_asal">Siberia</string>
+    <string name="husky_deskripsi">Husky termasuk dalam jenis anjing ras berukuran sedang dan berbulu tebal.</string>
+    <string name="kembali">Kembali</string>
+</resources>

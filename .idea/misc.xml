@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Alwan file/Mobile/LaluMomena/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Alwan file/Mobile/LaluMomena/app/src/main/res/layout/activity_profile_ras.xml" value="0.12360688956433637" />
+        <entry key="..\:/Alwan file/Mobile/LaluMomena/app/src/main/res/layout/profile_activity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Alwan file/Mobile/LaluMomena/app/src/main/res/layout/row_daftar_hewan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Alwan file/Mobile/LaluMomena/app/src/main/res/layout/row_profile_hewan.xml" value="0.25416666666666665" />
+        <entry key="..\:/pm/LaluMomena-ListView-master/app/src/main/res/layout/activity_main.xml" value="0.12001811594202899" />
+        <entry key="..\:/pm/LaluMomena-ListView-master/app/src/main/res/layout/activity_profile_ras.xml" value="0.19746376811594202" />
+        <entry key="..\:/pm/LaluMomena-ListView-master/app/src/main/res/layout/profile_activity.xml" value="0.19746376811594202" />
+        <entry key="..\:/pm/LaluMomena-ListView-master/app/src/main/res/layout/row_daftar_hewan.xml" value="0.19746376811594202" />
+        <entry key="..\:/pm/LaluMomena-ListView-master/app/src/main/res/layout/row_profile_hewan.xml" value="0.19746376811594202" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
